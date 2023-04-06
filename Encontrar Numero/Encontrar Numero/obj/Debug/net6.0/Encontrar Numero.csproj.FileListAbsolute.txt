@@ -1,0 +1,15 @@
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\bin\Debug\net6.0\Encontrar Numero.exe
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\bin\Debug\net6.0\Encontrar Numero.deps.json
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\bin\Debug\net6.0\Encontrar Numero.runtimeconfig.json
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\bin\Debug\net6.0\Encontrar Numero.dll
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\bin\Debug\net6.0\Encontrar Numero.pdb
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\obj\Debug\net6.0\Encontrar Numero.csproj.AssemblyReference.cache
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\obj\Debug\net6.0\Encontrar Numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\obj\Debug\net6.0\Encontrar Numero.AssemblyInfoInputs.cache
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\obj\Debug\net6.0\Encontrar Numero.AssemblyInfo.cs
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\obj\Debug\net6.0\Encontrar Numero.csproj.CoreCompileInputs.cache
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\obj\Debug\net6.0\Encontrar Numero.dll
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\obj\Debug\net6.0\refint\Encontrar Numero.dll
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\obj\Debug\net6.0\Encontrar Numero.pdb
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\obj\Debug\net6.0\Encontrar Numero.genruntimeconfig.cache
+C:\Users\Hector Padilla Boza\source\repos\Encontrar Numero\Encontrar Numero\obj\Debug\net6.0\ref\Encontrar Numero.dll
