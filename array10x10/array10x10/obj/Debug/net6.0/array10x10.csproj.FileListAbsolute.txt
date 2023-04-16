@@ -1,0 +1,15 @@
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\bin\Debug\net6.0\array10x10.exe
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\bin\Debug\net6.0\array10x10.deps.json
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\bin\Debug\net6.0\array10x10.runtimeconfig.json
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\bin\Debug\net6.0\array10x10.dll
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\bin\Debug\net6.0\array10x10.pdb
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\obj\Debug\net6.0\array10x10.csproj.AssemblyReference.cache
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\obj\Debug\net6.0\array10x10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\obj\Debug\net6.0\array10x10.AssemblyInfoInputs.cache
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\obj\Debug\net6.0\array10x10.AssemblyInfo.cs
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\obj\Debug\net6.0\array10x10.csproj.CoreCompileInputs.cache
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\obj\Debug\net6.0\array10x10.dll
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\obj\Debug\net6.0\refint\array10x10.dll
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\obj\Debug\net6.0\array10x10.pdb
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\obj\Debug\net6.0\array10x10.genruntimeconfig.cache
+C:\Users\Hector Padilla Boza\source\repos\array10x10\array10x10\obj\Debug\net6.0\ref\array10x10.dll
